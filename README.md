@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**abdelrahmanashrafsalama7-max/abdelrahmanashrafsalama7-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋 I'm Abdelrahman Ashraf
 
-Here are some ideas to get you started:
+- Python Developer 🐍
+- Computer Science Student 🎓
+- Problem Solver 🧠
+- Interested in Cybersecurity & AI 🔐🤖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+- Python
+- Problem Solving
+- Git & GitHub
+
+---
+
+## Goals
+I want to become a professional developer
